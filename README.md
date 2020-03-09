@@ -4,6 +4,7 @@
 Features Extraction
 Using the positions of 20 facial landmarks of each image, 19 dependent features will be exctracted by
 computing Euclidean distance between the position of each facial landmark and the position of tip of nose
+![Screenshot (209)](https://user-images.githubusercontent.com/13305274/76220598-733bdd00-6220-11ea-9f64-d8bedcf4cdbb.png)
 
 
 The dataset is real-world data, gathered from BioID Face Database [1]. The datasetconsists of 80 gray level
